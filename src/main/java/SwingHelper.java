@@ -1,4 +1,4 @@
-package pink.group1
+package pink.group1;
 
 import javax.swing.*;
 
