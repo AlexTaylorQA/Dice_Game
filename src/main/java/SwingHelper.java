@@ -1,3 +1,5 @@
+package pink.group1
+
 import javax.swing.*;
 
 public class SwingHelper {
