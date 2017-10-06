@@ -19,6 +19,6 @@ public class Die {
         rnd.setSeed(System.currentTimeMillis() + rnd.nextInt());
         return rnd.nextInt(maxValue-minValue) + minValue;
     }
-
+//testing auto build
 
 }
