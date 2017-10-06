@@ -1,3 +1,5 @@
+package pink.group1
+
 import lombok.Data;
 
 import java.util.Random;
