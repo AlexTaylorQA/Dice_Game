@@ -16,7 +16,7 @@ public class Die {
         Random rnd = new Random();
         rnd.setSeed(System.currentTimeMillis() + rnd.nextInt());
         return rnd.nextInt(maxValue-minValue) + minValue;
-    
+    }
 
 
 }
